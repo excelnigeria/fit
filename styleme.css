@@ -1,0 +1,168 @@
+
+@media screen and (min-width: 320px) and (max-width: 640px) 
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.navbar-brand {
+    color: white !important;
+}
+
+
+.navbar {
+    color: white !important;
+    background-color: green !important;
+    margin: 5px auto;
+    position: relative;
+    clear: both;
+}
+
+#myNavbar li a {
+    color: white;
+    background-color: forestgreen;
+    white-space: nowrap;
+}
+
+#myNavbar li a:hover {
+    background-color: cadetblue;
+}
+
+
+.btnpress {
+     background-color: green !important;
+    padding: 5px;
+    margin: 5px;
+    width: 30px;
+    
+}
+
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+/* Dropdown button on hover & focus */
+.dropbtn:hover, .dropbtn:focus {
+    background-color: #3e8e41;
+}
+
+/* The search field */
+#myInput {
+  border-box: box-sizing;
+  background-image: url('searchicon.png');
+  background-position: 14px 12px;
+  background-repeat: no-repeat;
+  font-size: 16px;
+  padding: 14px 20px 12px 45px;
+  border: none;
+  border-bottom: 1px solid #ddd;
+}
+
+
+    
+
+
+
+.table{
+    color: forestgreen;
+    
+}
+.thumbnail{
+    background-color: forestgreen;
+    color: aliceblue;
+}
+
+p5 a {
+    color: aliceblue; 
+    font-size: 10px;
+}
+h8{
+    font-size: 13px;
+}
+.jumbotron {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  color: inherit;
+}
+p8{
+    color: forestgreen;
+    font-style: oblique;
+
+}
+
+
+
+.footer {
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+
+
+
+.ww {
+    font-size: 10px;
+}
+
+
+
+
+
+
+
+
+
+.my-carousel {
+    margin: 0px;
+     position: relative;
+    
+    
+        
+}
+.r {
+    margin: 2px 600px 2px 600px;
+    color: forestgreen;
+}
+
+
+
+.footerwork {
+    position: inherit;
+    top: 90%;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    min-width: 200px;
+    
+}
+.uu a {
+    color: green;
+}
+h7{
+    color: aliceblue !important;
+    position: relative;
+    text-align: left;
+    font-size: 70%;
+}
+h6{
+    color: forestgreen !important;
+    text-align: center;
+    position: relative;
+    font-size: 20px;
+}
+
+.row{
+    position: relative;
+}
+      
+    
+
+
+.aaa{
+    font-size: 50px;
+}
